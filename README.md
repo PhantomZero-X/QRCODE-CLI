@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">👋 Hi, I'm Kilua Ahmad Al.A</h1>
+<h1 align="center">👋 Hi, I'm ShadowX</h1>
 <h3 align="center">💻 Web Developer | ☁️ Cloud & AI Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
