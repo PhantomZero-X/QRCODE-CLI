@@ -24,3 +24,21 @@ Step-by-step guide to set up your project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/PhantomZero-X/Tester.git
+
+```
+
+     ██████╗ ██████╗        ██████╗██╗     ██╗
+    ██╔═══██╗██╔══██╗      ██╔════╝██║     ██║
+    ██║   ██║██████╔╝█████╗██║     ██║     ██║
+    ██║▄▄ ██║██╔══██╗╚════╝██║     ██║     ██║
+    ╚██████╔╝██║  ██║      ╚██████╗███████╗██║
+     ╚══▀▀═╝ ╚═╝  ╚═╝       ╚═════╝╚══════╝╚═╝
+
+    [+] By: Mr.ShadowX
+    [+] Github: https://github.com/PhantomZero-X
+    [+] Version: 1.0
+    [+] Link to QR Code Generator!
+
+
+Enter the link: Enter the URL or link you want to make into a QR code.
+```
