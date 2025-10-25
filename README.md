@@ -1,6 +1,6 @@
 # Link to QR CODE
 
-![Banner Image]([link-to-your-banner-image.png](https://github.com/PhantomZero-X/Tester/blob/main/qrcode.png)) <!-- Optional: Add a banner image for visual appeal -->
+![Banner Image]([link-to-your-banner-image.png](qrcode.png)) <!-- Optional: Add a banner image for visual appeal -->
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Issues](https://img.shields.io/github/issues/your-username/your-repo)](https://github.com/your-username/your-repo/issues)
