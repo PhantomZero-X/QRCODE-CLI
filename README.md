@@ -23,5 +23,4 @@ List the tools, languages, or dependencies users need to install:
 Step-by-step guide to set up your project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-[<image-card alt="Build Status" src="https://img.shields.io/travis/your-username/your-repo.svg?style=flat-square&color=2ecc71&logo=travis" ></image-card>]([https://travis-ci.org/your-username/your-repo](https://github.com/PhantomZero-X/Tester.git))
+   git clone https://github.com/PhantomZero-X/Tester.git
