@@ -25,6 +25,8 @@ Step-by-step guide to set up your project:
    ```bash
    git clone https://github.com/PhantomZero-X/Tester.git
 
+   cd Tester
+
 ```
 
      ██████╗ ██████╗        ██████╗██╗     ██╗
