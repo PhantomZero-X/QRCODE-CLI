@@ -3,7 +3,6 @@
 
 
 
-
 ![GitHub followers](https://img.shields.io/github/followers/kiluanostalgia?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/kiluanostalgia?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=kiluanostalgia&color=blueviolet)
